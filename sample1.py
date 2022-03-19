@@ -1,4 +1,4 @@
-from gzip import READ
+
 import random
 
 # import pygame modules
