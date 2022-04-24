@@ -3,14 +3,21 @@
 An attempt to improve pygame library understanding by implementing Tetris 
 
 ## Table of contents
-- [Pygame Basics](#pygame-basics)
+- [Pygame basics](#[pygame-basics])
 - [Tetris](#tetris)
 - [Convert to Executable](#convert-to-executable)
 - [References](#references)
 
 ## Pygame Basics
 
+*pygame-basics.py* contains a basic implementation of jet-bird dodge game. It introduces basic ideas about surface, rect, game loop, sprites, custom events, collision detection and time
+
 ## Tetris
+
+Implementation for basic tetris game taken from [InventWithPython](https://inventwithpython.com/pygame/chapter7.html). Additional features added - 
+- next queue
+- color scheme modes
+- Resizable, scalable display
 
 ## Convert to executable
 
